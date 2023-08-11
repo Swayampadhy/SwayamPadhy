@@ -2,7 +2,8 @@
 A student from Mit Manipal with a knee deep Interest in Cybersecurity.<br><br>🔭 I’m currently working on BlueNovember and Cryoleak<br><br>⚡ Fun fact - I can talk for hours on malware and windows exploitment .
 
 # Certifications:
-![image](https://github.com/Swayampadhy/SwayamPadhy/assets/37104162/85e4ba85-02c1-4486-9135-0366072d5657) ![image](https://github.com/Swayampadhy/SwayamPadhy/assets/37104162/1445a5ef-f522-4dd7-9209-194448a14259) ![image](https://github.com/Swayampadhy/SwayamPadhy/assets/37104162/fa34c3a0-4e23-4c50-94d9-fe4f1a8739bf)
+<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://www.credential.net/ad14f879-55b6-482a-b845-88b4b1f9381d)"  width="102" height="102">
+<img src="https://www.credential.net/8fc7b9f0-49bd-4c48-aa63-8b53c79d0cdc"  width="102" height="102">
 
 
 
