@@ -14,8 +14,3 @@ A student from Mit Manipal with a knee deep Interest in Cybersecurity.<br><br>ðŸ
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SwayamPadhy&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamPadhy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  ## ðŸ’° You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SwayamTejasPadhy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
