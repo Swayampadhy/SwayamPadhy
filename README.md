@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student from Mit Manipal with a knee deep Interest in Cybersecurity.<br><br><br><br>⚡ Fun fact - I can talk for hours on malware and windows exploitation .
+A student from Mit Manipal with a knee deep Interest in Cybersecurity.<br><br>⚡ Fun fact - I can talk for hours on malware and windows exploitation .
 
 # Certifications:
 <img src="https://user-images.githubusercontent.com/37104162/259928338-85e4ba85-02c1-4486-9135-0366072d5657.png" width="102" height="102" /> <img src="https://user-images.githubusercontent.com/37104162/259928418-1445a5ef-f522-4dd7-9209-194448a14259.png" width="102" height="102" /> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37104162/259929332-42e90c03-187d-4ab0-8774-7896175acfb8.png" width="102" height="102" />
