@@ -8,6 +8,5 @@ A student from Mit Manipal with a knee deep Interest in Cybersecurity.<br><br>âš
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swayam_padhy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swayam-padhy-26a14721a) 
 
 # ðŸ“Š GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SwayamPadhy&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamPadhy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
