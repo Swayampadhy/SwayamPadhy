@@ -9,4 +9,5 @@ A student from Mit Manipal with a knee deep Interest in Cybersecurity.<br><br>âš
 
 # ðŸ“Š GitHub Stats:
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=SwayamPadhy&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamPadhy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
